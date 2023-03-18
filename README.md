@@ -7,5 +7,7 @@
   <p align="center">The sailor tool</p>
 </p>
 
+.img { corner-radius:30%; }
+
 
 # Sailor
