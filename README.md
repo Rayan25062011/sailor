@@ -1,8 +1,4 @@
-<style>
-img {
-   corner-radius: 30%
-}
-</style>
+
 
 
 <p align="center">
