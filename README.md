@@ -12,11 +12,11 @@
 # Sailor
 Sailor is a easy to use framework to protect you device and surf the web privately.
 
-## SailorProxy
+###### SailorProxy
 SailorProxy is a HTTP proxy that will hide your online identity as long as its active.
 
-## SailorSurf
+###### SailorSurf
 SailorSurf is a ip banner that lets you surf the internet without a specific ip communicating or interacting with your device.
 
-## SailorBanner
+###### SailorBanner
 SailorBanner is a banner grabber for websites.
