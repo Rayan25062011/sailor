@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src="sailorlogo_auto_x2.jpg" width="300", alt="style.css">
+  <img src="sailorimage.JPG" width="300">
   <h1 align="center">Sailor framework</h1>
   <p align="center">The sailor tool</p>
 </p>
