@@ -1,8 +1,10 @@
 
 
+![image](https://user-images.githubusercontent.com/101386337/226156506-ddfe2908-1527-43e4-977c-5ecf25d96252.png)
+
+
 
 <p align="center">
-  <img src="sailorimage.JPG" width="300">
   <h1 align="center">Sailor framework</h1>
   <p align="center">The sailor tool</p>
 </p>
