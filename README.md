@@ -6,7 +6,7 @@
 
 <p align="center">
   <h1 align="center">Sailor framework</h1>
-  <p align="center">The sailor tool</p>
+  <p align="center">The Sailor Framework</p>
 </p>
 
 
